@@ -14,3 +14,6 @@
 <!--
 **Willians3110/Willians3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+
+  ![Snake animation](https://github.com/willians3110/willians3110/blob/output/github-contribution-grid-snake.svg)
