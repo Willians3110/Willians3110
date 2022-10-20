@@ -10,10 +10,12 @@
 -->
 
 <p align="center">
-<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=Willians3110&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
+  <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=Willians3110&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
 </p>
 
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+-->
 
 ## Estudando
 
@@ -26,7 +28,7 @@
 -->
 
 <p>
- <img width="100%" align="center" src="https://github.com/willians3110/willians3110/blob/output/github-contribution-grid-snake.svg" />
+   <img width="100%" align="center" src="https://github.com/willians3110/willians3110/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!--
@@ -34,7 +36,7 @@
 -->
  
 <div align="center">
-<img src="https://media1.giphy.com/media/IhgHYyvRIHSRhbaqdU/200w.webp?cid=ecf05e475jkrvjujipj1run8dui41okamooxr2f8lpy3fnbd&rid=200w.webp&ct=g" width="275" />
-<img src="https://media2.giphy.com/media/UmQrx37p5LVxC/200w.webp?cid=ecf05e47iegulaqm1o1yijsptdnrfrglqynp62h2w9ypduso&rid=200w.webp&ct=g" width="275" />
-<img src="https://media3.giphy.com/media/RdbuoN1TUcAec/giphy.webp?cid=ecf05e475jkrvjujipj1run8dui41okamooxr2f8lpy3fnbd&rid=giphy.webp&ct=g" width="555" height="160"/>
+  <img src="https://media1.giphy.com/media/IhgHYyvRIHSRhbaqdU/200w.webp?cid=ecf05e475jkrvjujipj1run8dui41okamooxr2f8lpy3fnbd&rid=200w.webp&ct=g" width="275" />
+  <img src="https://media2.giphy.com/media/UmQrx37p5LVxC/200w.webp?cid=ecf05e47iegulaqm1o1yijsptdnrfrglqynp62h2w9ypduso&rid=200w.webp&ct=g" width="275" />
+  <img src="https://media3.giphy.com/media/RdbuoN1TUcAec/giphy.webp?cid=ecf05e475jkrvjujipj1run8dui41okamooxr2f8lpy3fnbd&rid=giphy.webp&ct=g" width="555" height="160"/>
 </div>
