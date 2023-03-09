@@ -1,5 +1,5 @@
 
-## <p align="center"> ☢️ Hello 👋, I am Willians Soares ☢️</p>
+## <p align="center"> Hello 👋, I am Willians Soares </p>
 
 <p align="center">
  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=Willians3110&show_icons=true&theme=radical&hide_border=true" />
