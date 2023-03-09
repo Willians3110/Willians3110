@@ -13,10 +13,7 @@
   <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=Willians3110&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
 </p>
 
-<p
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/willians-soares-40ab24236/r)
-</P>
-
 
 ## Estudando
 
