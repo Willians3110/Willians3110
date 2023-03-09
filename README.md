@@ -34,9 +34,3 @@
 <!--
   ![Snake animation](https://github.com/willians3110/willians3110/blob/output/github-contribution-grid-snake.svg)
 -->
- 
-<div align="center">
-  <img src="https://media1.giphy.com/media/IhgHYyvRIHSRhbaqdU/200w.webp?cid=ecf05e475jkrvjujipj1run8dui41okamooxr2f8lpy3fnbd&rid=200w.webp&ct=g" width="275" />
-  <img src="https://media2.giphy.com/media/UmQrx37p5LVxC/200w.webp?cid=ecf05e47iegulaqm1o1yijsptdnrfrglqynp62h2w9ypduso&rid=200w.webp&ct=g" width="275" />
-  <img src="https://media3.giphy.com/media/RdbuoN1TUcAec/giphy.webp?cid=ecf05e475jkrvjujipj1run8dui41okamooxr2f8lpy3fnbd&rid=giphy.webp&ct=g" width="555" height="160"/>
-</div>
