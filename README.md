@@ -1,12 +1,20 @@
 
 ## <p align="center"> Hello 👋, I am Willians Soares </p>
 
+
 <p align="center">
- <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=Willians3110&show_icons=true&theme=radical&hide_border=true" />
+ 
+ <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=Willians3110&show_icons=true&theme=radical&hide_border=true" />
+<!-- Most Used Languages
+ <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Willians3110&layout=compact&langs_count=16&theme=radical" />
+-->
 </p>
 
 <!--
+1
 ![Willians GitHub stats](https://github-readme-stats.vercel.app/api?username=Willians3110&show_icons=true&theme=radical)
+2
+<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=Willians3110&show_icons=true&theme=radical&hide_border=true" />
 -->
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/willians-soares-40ab24236/r)
