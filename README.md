@@ -30,10 +30,7 @@
 -->
 
 
-<p>
-   <img width="100%" align="center" src="https://github.com/willians3110/willians3110/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
+![snake gif](https://github.com/Willians3110/Willians3110/blob/output/github-contribution-grid-snake.svg)
 
 <!--
   ![Snake animation](https://github.com/willians3110/willians3110/blob/output/github-contribution-grid-snake.svg)
