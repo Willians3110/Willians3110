@@ -28,7 +28,3 @@
 <!--
 **Willians3110/Willians3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b42fa0d9-c400-4454-8441-bd490857fa98" data-share-badge-host="https://www.credly.com">
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
- </div>
-
