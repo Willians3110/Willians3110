@@ -20,9 +20,6 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/willians-soares-40ab24236/r)
 
 ## Estudando
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b42fa0d9-c400-4454-8441-bd490857fa98" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <!--
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
